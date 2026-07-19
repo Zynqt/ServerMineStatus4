@@ -1,1 +1,3 @@
-# ServerMineStatus4
+{
+  Running: false
+}
